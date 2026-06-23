@@ -157,16 +157,16 @@ D3QN achieved the highest and most stable reward among all tested algorithms.
 | D3QN        | 170            |
 
 ## DQN
-<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/24845e2b-df9d-435e-948f-ef72594d5996" />
+![DQN](results/dqn-ezgif.com-video-to-gif-converter.gif)
 
 ## DDQN
-<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/1ac4e1e4-4a55-426b-a895-0f4bd761d2e0" />
+![DQN](results/Ddqn-ezgif.com-video-to-gif-converter.gif)
 
 ## Dueling DQN
-<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/23a593d5-c4f6-411c-b16e-f6a8010fd885" />
+![DQN](results/duelingdqn-ezgif.com-video-to-gif-converter.gif)
 
 ## D3QN
-<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/417ce493-67e0-4537-9948-d65f91ae9372" />
+![DQN](results/d3qn-ezgif.com-video-to-gif-converter.gif)
 
 
 ### Analysis
