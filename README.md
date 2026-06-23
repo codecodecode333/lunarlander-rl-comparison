@@ -1,4 +1,6 @@
 # LunarLander RL Comparison
+<img width="585" height="345" alt="image" src="https://github.com/user-attachments/assets/8ca39d8e-68f9-41ed-a71a-459c46700abf" />
+
 
 DQN 계열 강화학습 알고리즘의 성능을 비교하고 분석한 프로젝트입니다.
 
