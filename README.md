@@ -1,5 +1,6 @@
 # LunarLander RL Comparison
-<img width="585" height="345" alt="image" src="https://github.com/user-attachments/assets/8ca39d8e-68f9-41ed-a71a-459c46700abf" />
+<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/96f83aeb-7a30-45f5-a0f3-33654bf42472" />
+
 
 
 DQN 계열 강화학습 알고리즘의 성능을 비교하고 분석한 프로젝트입니다.
@@ -154,6 +155,19 @@ D3QN achieved the highest and most stable reward among all tested algorithms.
 | DDQN        | 122            |
 | Dueling DQN | 7              |
 | D3QN        | 170            |
+
+## DQN
+<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/24845e2b-df9d-435e-948f-ef72594d5996" />
+
+## DDQN
+<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/1ac4e1e4-4a55-426b-a895-0f4bd761d2e0" />
+
+## Dueling DQN
+<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/23a593d5-c4f6-411c-b16e-f6a8010fd885" />
+
+## D3QN
+<img width="608" height="400" alt="image" src="https://github.com/user-attachments/assets/417ce493-67e0-4537-9948-d65f91ae9372" />
+
 
 ### Analysis
 
