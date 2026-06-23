@@ -138,7 +138,12 @@ Input(8)
 ---
 
 ## Results
+
+## Training Curve
+
 <img width="539" height="329" alt="image" src="https://github.com/user-attachments/assets/3bb963d1-3978-4ae0-902e-e698820eb997" />
+
+D3QN achieved the highest and most stable reward among all tested algorithms.
 
 
 ### Last 100 Episodes Average Reward
